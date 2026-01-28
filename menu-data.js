@@ -88,7 +88,7 @@ window.MENU_DATA = [
         "name_ar": "ميني بان كيك أوريو",
         "name_he": "מיני פנקייק אוראו",
         "note": "",
-        "img": "assets/photos/ميني-بان-كيك-ميني-بان-كيك-أوريو.png"
+        "img": "assets/photos/ميني-بان-كيك-ميني-بان-كيك-أوريو.jpg"
       }
     ]
   },
