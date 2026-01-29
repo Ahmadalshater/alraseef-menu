@@ -57,7 +57,7 @@ window.MENU_DATA = [
         "name_ar": "بان كيك لوتس",
         "name_he": "פנקייק לוטוס",
         "note": "",
-        "img": "assets/photos/بان-كيك-بان-كيك-لوتس.png"
+        "img": "assets/photos/بان-كيك-بان-كيك-لوتس.jpg"
       },
       {
         "name_ar": "بان كيك نوتيلا",
